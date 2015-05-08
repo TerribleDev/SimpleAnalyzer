@@ -15,4 +15,7 @@
       <dependency id="NR6Pack" version="" />
     </dependencies>
   </metadata>
+  <files>
+    <file src="**" exclude="**" />
+  </files>
 </package>
