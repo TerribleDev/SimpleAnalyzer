@@ -7,7 +7,7 @@
     <owners>Tommy Parnell</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Installs Common C# Live Analyzers</description>
-    <copyright>Copyright 2015</copyright>
+    <projectUrl>https://github.com/tparnell8/SimpleAnalyzer</projectUrl>
     <tags>Live Analyzers Analysis</tags>
     <dependencies>
       <dependency id="codecracker.CSharp" version="" />
