@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5827ifadbkmw6l20?svg=true)](https://ci.appveyor.com/project/tparnell8/simpleanalyzer)
+[![Build status](https://ci.appveyor.com/api/projects/status/lueows58q15xiqd4?svg=true)](https://ci.appveyor.com/project/tparnell8/simpleanalyzer)
 
 ## What is this?
 
