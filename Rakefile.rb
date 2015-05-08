@@ -3,6 +3,6 @@
   desc "Build the nuget packages"
   task :package do
     FileList["*.nuspec"].each do |spec|
-      sh "nuget pack #{spec} -Version %APPVEYOR_BUILD_VERSION%"
+      sh "nuget pack #{spec} -Version #{ENV["APPVEYOR_BUILD_VERSION"]}"
     end
   end
