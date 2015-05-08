@@ -3,7 +3,9 @@ nuget:
   account_feed: true
   project_feed: true
 build_script:
-- nuget pack -Version %APPVEYOR_BUILD_VERSION%
+- gem install bundle
+- bundle
+- rake package
 test: off
 artifacts:
 - path: '*.nupkg'
